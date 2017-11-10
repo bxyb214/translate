@@ -1,8 +1,8 @@
 {
   "name": "Google.Translate",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "author": "MoeFE <quq@quq.cat>",
-  "description": "Google 翻译 Mac 客户端",
+  "description": "Google翻译客户端",
   "license": "GPL-3.0",
   "main": "./dist/electron/main.js",
   "scripts": {
