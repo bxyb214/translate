@@ -104,15 +104,8 @@ export default {
       },
       keymap: {
         'meta+,': this.goSettings,
-        'meta+s': this.switchLanguage,
-        'meta+shift+1': this.changeSourceLanguage,
-        'meta+shift+2': this.changeTargetLanguage,
         'meta+1': () => this.speakLanguage('source'),
         'meta+2': () => this.speakLanguage('target'),
-        'meta+ctrl+1': () => this.translation('BaiDu'),
-        'meta+ctrl+2': () => this.translation('YouDao'),
-        'meta+ctrl+3': () => this.translation('Google'),
-        'meta+ctrl+4': () => this.translation('GoogleCN'),
         'meta+q': () => remote.app.quit()
       }
     }

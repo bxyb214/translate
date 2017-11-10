@@ -8,7 +8,7 @@ export const state = {
     'vi': '越南语'
   },
   hotkey: '',
-  engine: 'Google'
+  engine: 'GoogleCN'
 }
 
 export default state

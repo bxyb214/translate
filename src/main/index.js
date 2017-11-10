@@ -76,7 +76,7 @@ function createUpdateWindow () {
 }
 
 app.on('ready', createWindow)
-app.on('ready', createUpdateWindow)
+//app.on('ready', createUpdateWindow)
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {

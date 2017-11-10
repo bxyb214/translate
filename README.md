@@ -1,12 +1,6 @@
 # Google Translate
 
-> Google 翻译 Mac 客户端（基于官方 API）
-
-[![Build Status](https://travis-ci.org/MoeFE/GoogleTranslate.svg?branch=master)](https://travis-ci.org/MoeFE/GoogleTranslate)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-## 下载
-https://github.com/MoeFE/GoogleTranslate/releases/latest
+> Google 翻译客户端（基于官方 API）
 
 ## 截图
 
